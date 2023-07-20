@@ -9,8 +9,8 @@
 ##    print("wrong answer")
 
 mcq=[
-{"q":"what is your name?","o":['sundar','sandy','python'],"a":'sundar'},
-{"q":"what is your age?","o":[23,24,30],"a":23},
+{"q":"what is your name?","o":['a.sundar','b.sandy','c.python'],"a":'sundar'},
+{"q":"what is your age?","o":[a.23,b 24,c.30],"a":23},
 {"q":"who is the founder of python?","o":['a. jay','b. sandy','srinath'],"a":'sandy'}, ]
 
 for i in mcq:
